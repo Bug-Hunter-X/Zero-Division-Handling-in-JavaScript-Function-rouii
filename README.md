@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript: incorrect handling of zero values in division. The `myFunction` initially returns 0 if either input is 0, which is mathematically incorrect. The corrected version handles this case appropriately by throwing an error, thus preventing unexpected behavior or program crashes.
